@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [Plantura Garden](https://plantura.garden) and [Softbrik](https://softbrik.com)
+- 🔭 I’m currently work @ [Plantura Garden](https://plantura.garden)
 - 🌱 I’m currently learning Rust
 - 🤔 I’m looking for help makeing [vue-browser-acl](https://github.com/mblarsen/vue-browser-acl) ready for Vue 3
 - 💬 Ask me about php, rust, go, elm, svelte, vue, react, git, vim
