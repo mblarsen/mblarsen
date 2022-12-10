@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently work @ [Plantura Garden](https://plantura.garden)
+- 🔭 I work @ [Plantura Garden](https://plantura.garden)
 - 🌱 I’m currently learning Rust
-- 🤔 I’m looking for help makeing [vue-browser-acl](https://github.com/mblarsen/vue-browser-acl) ready for Vue 3
+- 🤔 I’m looking for help making [vue-browser-acl](https://github.com/mblarsen/vue-browser-acl) ready for Vue 3
 - 💬 Ask me about php, rust, go, elm, svelte, vue, react, git, vim
 - 📫 How to reach me: mbl@code.boutique
 
