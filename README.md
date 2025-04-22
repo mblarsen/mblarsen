@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I work @ [Plantura Garden](https://plantura.garden)
-- 🌱 I’m currently learning Rust
-- 🤔 I’m looking for help making [vue-browser-acl](https://github.com/mblarsen/vue-browser-acl) ready for Vue 3
-- 💬 Ask me about php, rust, go, elm, svelte, vue, react, git, vim
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help maintaining [vue-browser-acl](https://github.com/mblarsen/vue-browser-acl)
+- 💬 Ask me about TypeScript, git, vim, lua, python
 - 📫 How to reach me: mbl@code.boutique
 
 Also, please …
@@ -14,4 +14,4 @@ Also, please …
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mblarsen&layout=compact)
 
-[![wakatime](https://wakatime.com/badge/user/a165011f-1a10-41c0-bb04-151697e4440c.svg)](https://wakatime.com/@a165011f-1a10-41c0-bb04-151697e4440c)
+![wakatime](https://wakatime.com/badge/user/a165011f-1a10-41c0-bb04-151697e4440c.svg)
